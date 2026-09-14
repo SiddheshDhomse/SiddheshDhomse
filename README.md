@@ -35,4 +35,4 @@ AI Engineer @ [Icertis](https://www.icertis.com/), building GenAI systems for co
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/siddhesh-dhomse/) — swap in your profile URL
+[LinkedIn](https://www.linkedin.com/in/siddhesh-dhomse/)
